@@ -14,7 +14,7 @@ from io import BytesIO
 import os
 
 # Gemini API setup
-API_KEY = "AIzaSyDIST7Xvjns3VFMf2jbawPSX95cIhAkFhA"
+API_KEY = "YOUR API KEY"
 genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel("gemini-2.5-pro-exp-03-25")
 
@@ -33,10 +33,11 @@ except Exception as e:
 
 # Database connection parameters
 DB_CONFIG = {
-    "host": "localhost",
-    "user": "root", 
-    "password": "root",
-    "database": "smart_clinic"
+         host="YOUR HOST IP",
+        port= YOUR PORT NUMBER,
+        user="YOUR DATABASE USERNAME",
+        password="YOUR DATABASE PASSWORD",
+        database="YOUR DATABASE NAME"
 }
 
 # Direct DB Connection
