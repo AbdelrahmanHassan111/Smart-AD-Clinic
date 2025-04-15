@@ -5,10 +5,11 @@ from datetime import datetime, timedelta, time
 
 # Database connection parameters
 DB_CONFIG = {
-    "host": "localhost",
-    "user": "root",
-    "password": "root",
-    "database": "smart_clinic"
+ host="YOUR HOST IP",
+        port= YOUR PORT NUMBER,
+        user="YOUR DATABASE USERNAME",
+        password="YOUR DATABASE PASSWORD",
+        database="YOUR DATABASE NAME"
 }
 
 def get_db_connection():
