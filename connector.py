@@ -3,10 +3,10 @@ import mysql.connector
 def get_connection():
     """Create and return a connection to the MySQL database"""
     conn = mysql.connector.connect(
-        host="127.0.0.1",
-        port=3306,
-        user="root",
-        password="root",
-        database="smart_clinic"
+        host="YOUR HOST IP",
+        port= YOUR PORT NUMBER,
+        user="YOUR DATABASE USERNAME",
+        password="YOUR DATABASE PASSWORD",
+        database="YOUR DATABASE NAME"
     )
     return conn
