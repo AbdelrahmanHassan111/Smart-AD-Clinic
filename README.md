@@ -24,6 +24,10 @@ A comprehensive hospital management system built with Streamlit, featuring patie
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
+**System Testing**
+
+https://github.com/user-attachments/assets/0f94079c-74ab-4496-9882-48b4c23a28bd
+
 ## Features
 
 ### For Doctors
