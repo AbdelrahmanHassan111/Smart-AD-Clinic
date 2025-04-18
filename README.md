@@ -1,12 +1,12 @@
-# Hospital Management System
+# Alzheimer clinic System
 
-![Hospital Management System](https://img.shields.io/badge/Hospital%20Management%20System-Healthcare-blue)
+![Alzheimer clinic System](https://img.shields.io/badge/Hospital%20Management%20System-Healthcare-blue)
 ![Python](https://img.shields.io/badge/Python-3.8+-green)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.22+-red)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange)
 ![XGBoost](https://img.shields.io/badge/XGBoost-1.5+-purple)
 
-A comprehensive hospital management system built with Streamlit, featuring patient management, doctor scheduling, and AI-powered disease prediction.
+A comprehensive Alzheimer clinic system built with Streamlit, featuring patient management, doctor scheduling, and AI-powered disease prediction.
 
 ## Table of Contents
 
